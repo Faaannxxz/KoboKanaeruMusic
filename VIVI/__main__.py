@@ -29,7 +29,7 @@ async def init():
         and not config.STRING5
     ):
         LOGGER("VIVI").error(
-            "WTF Baby ! Atleast add a pyrogram string, How Cheap..."
+            "Why Baby ! Atleast add a pyrogram string, How Cheap..."
         )
         return
     if (
